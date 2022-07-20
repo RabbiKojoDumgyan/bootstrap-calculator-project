@@ -1,0 +1,37 @@
+.col1 {
+    border: 1px solid gray;
+    background-color: rgb(130, 119, 133);
+    color: white;
+    padding: 10px;
+}
+.col1 p {
+    text-align: right;
+    font-size: 20px;
+}
+.colsigns {
+    border: 1px solid gray;
+    background-color: rgb(255, 151, 53);
+    color: white;
+    padding: 10px;
+}
+.col2{
+    border: 1px solid gray;
+    background-color: rgb(236, 227, 227);
+    padding: 10px;
+}
+.container {
+    border: 1px solid gray;
+    width: 800px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.colbottom {
+    border: 1px solid gray;
+    background-color: rgb(236, 227, 227); 
+    padding: 10px;
+}
+p {
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
+
